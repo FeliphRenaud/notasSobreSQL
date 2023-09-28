@@ -1,0 +1,2 @@
+# notasSobreSQL
+Anotações sobre SQL 
